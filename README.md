@@ -29,7 +29,7 @@ public class Git {
 
 <img src="https://github-readme-stats.vercel.app/api?username=HelithaSri&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=HelithaSri&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelithaSri&layout=compact&theme=tokyonight&hide_border=false"/>|
+<img alt="HelithaSri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelithaSri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
 
 <p align="Right">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=HelithaSri&color=brightgreen">
@@ -77,9 +77,7 @@ public class Git {
   <a href="http://twitter.com/HelithaSri1"><img alt="Twitter" title="Helitha Sri Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:helitha.pravin@gmail.com"><img alt="Gmail" title="Helitha Sri Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/HelithaSri"><img alt="Github" title="Helitha Sri Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
 </p>
-
 <!---
 - 👋 Hi, I’m @HelithaSri
 - 👀 I’m interested in ...
