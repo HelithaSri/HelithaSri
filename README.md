@@ -76,7 +76,7 @@ public class Git {
   <a href="https://linkedin.com/in/helithasri"><img alt="Linkedin" title="Helitha Sri Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="http://twitter.com/HelithaSri1"><img alt="Twitter" title="Helitha Sri Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:helitha.pravin@gmail.com"><img alt="Gmail" title="Helitha Sri Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/HelithaSri"><img alt="Github" title="Helitha Sri Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/HelithaSri"><img alt="Github" title="Helitha Sri Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <!---
 - 👋 Hi, I’m @HelithaSri
