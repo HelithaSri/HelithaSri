@@ -29,7 +29,7 @@ public class Git {
 
 <img src="https://github-readme-stats.vercel.app/api?username=HelithaSri&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=HelithaSri&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelithaSri&layout=compact&theme=tokyonight&hide_border=true"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelithaSri&layout=compact&theme=tokyonight&hide_border=false"/>|
 
 <p align="Right">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=HelithaSri&color=brightgreen">
