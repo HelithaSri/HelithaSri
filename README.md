@@ -3,7 +3,7 @@
 </p>
 
 ```java
-public class Git {
+public class AboutMe {
     public static void main(String[] args) {
         String user = "Helitha Sri";
         String current_edu = "IJSE";
