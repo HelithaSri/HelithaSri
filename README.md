@@ -8,7 +8,7 @@ public class AboutMe {
         String user = "Helitha Sri";
         String current_edu = "IJSE";
 	String currently_working = "DirectPay";
-        String currently_learning = "Web Development";
+        String currently_learning = "React Native";
         String fun_fact = "I love to leave my phone unanswered and then text them to know why they had called";
         String[] hobbies = {
                 "Gaming",
