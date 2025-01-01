@@ -6,13 +6,13 @@
 public class AboutMe {
     public static void main(String[] args) {
         String user = "Helitha Sri";
-        String current_edu = "IJSE";
-	String currently_working = "DirectPay";
-        String currently_learning = "React Native";
+        String current_edu = "Cardiff Metropolitan University";
+	String currently_working = "DirectPay | PayMedia";
+        String currently_learning = "Flutter & ML";
         String fun_fact = "I love to leave my phone unanswered and then text them to know why they had called";
         String[] hobbies = {
                 "Gaming",
-                "Tv series",
+                "TV series",
                 "Illustrations",
                 "DIY Projects",
         };
@@ -28,16 +28,16 @@ public class AboutMe {
 ```
 ## 📊 Github stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HelithaSri&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=HelithaSri&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HelithaSri&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img alt="HelithaSri's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HelithaSri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 |---|---|
-<img alt="HelithaSri's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HelithaSri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>|
+
 
 <p align="Right">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=HelithaSri&color=brightgreen">
   <img alt="Profile followers" src="https://img.shields.io/github/followers/HelithaSri">
 </p>
 
-## 🛠️ My favorite tools
+## 🛠️ My favourite tools
 
 ### 👨‍💻 Programming languages
 <p>
