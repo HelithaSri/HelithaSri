@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Helitha+Sri;Software+Engineer;And+an+Open+Source+Contributor">
 </p>
 
+<p align="center">
+  <a href="https://www.helithasri.dev"><img src="https://img.shields.io/badge/Portfolio-helithasri.dev-64F74E?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HelithaSri&label=Profile%20views&color=203a43&style=flat" alt="profile views" />
+  <a href="https://github.com/HelithaSri?tab=followers"><img src="https://img.shields.io/github/followers/HelithaSri?label=Followers&style=flat&color=2c5364" alt="followers" /></a>
+</p>
+
 ```java
 public class AboutMe {
     public static void main(String[] args) {
@@ -26,39 +32,16 @@ public class AboutMe {
     }
 }
 ```
-## 🛠️ My favourite tools
+## 🧑‍💻 My Toolbox
 
-### 👨‍💻 Programming languages
-<p>
-  <a href="https://github.com/search?q=user%3AHelithaSri+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AHelithaSri+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AHelithaSri+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AHelithaSri+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/search?q=user%3AHelithaSri+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AHelithaSri+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AHelithaSri+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AHelithaSri+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AHelithaSri+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-
-</p>
-
-### 🧰 Frameworks and libraries
-<p>
-  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-
-</p>
-
-### 💻 Software and tools
-<p>
-  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-021B37.svg?logo=intellij-idea&logoColor=white"></a>
-  <a href="#"><img alt="JasperReport" src="https://custom-icon-badges.herokuapp.com/badge/-Jasper%20Report-4A8CCA"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,dart,flutter,python,react,nextjs,nodejs,express,tailwind&perline=10" alt="languages and frameworks" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,kubernetes,aws,git,github,linux,vscode,js,ts,postman,nginx,idea,arduino&perline=10" alt="tools" />
+  </a>
 </p>
 
 ## 🔗 Connect with Me
