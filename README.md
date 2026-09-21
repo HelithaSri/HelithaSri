@@ -26,17 +26,6 @@ public class AboutMe {
     }
 }
 ```
-## 📊 Github stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HelithaSri&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img alt="HelithaSri's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HelithaSri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-|---|---|
-
-
-<p align="Right">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=HelithaSri&color=brightgreen">
-  <img alt="Profile followers" src="https://img.shields.io/github/followers/HelithaSri">
-</p>
-
 ## 🛠️ My favourite tools
 
 ### 👨‍💻 Programming languages
