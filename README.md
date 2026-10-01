@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.helithasri.dev"><img src="https://img.shields.io/badge/Portfolio-helithasri.dev-64F74E?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=HelithaSri&label=Profile%20views&color=203a43&style=flat" alt="profile views" />
   <a href="https://github.com/HelithaSri?tab=followers"><img src="https://img.shields.io/github/followers/HelithaSri?label=Followers&style=flat&color=2c5364" alt="followers" /></a>
 </p>
 
